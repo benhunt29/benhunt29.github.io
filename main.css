@@ -14,7 +14,7 @@ a{
 .container h1{
 	clear:both;
 	font-style: bold;
-	font-family: 'Arimo', Serif;
+	font-family: 'Arial', Serif;
 	border-bottom-style: solid;
 	position: relative;
 }
@@ -22,7 +22,7 @@ a{
 
 
 .container ul,li {
-	font-family: 'Arimo', Serif;
+	font-family: 'Arial', Serif;
 	position: relative;
 	top: 0px;
 	left: 40px;
