@@ -39,6 +39,7 @@ article ul,li {
 article h1 {
 	font-size: 25px;
 	font-style:bold;
+	border-bottom: solid 1px;
 }
 
 header ul,p{
