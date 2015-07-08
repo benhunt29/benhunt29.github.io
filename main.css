@@ -4,6 +4,7 @@ img{
 	position: relative;
 	right: 60px;
 	box-shadow: 10px 10px 5px #888888;
+	margin: 5 5 5 5;
 }
 
 a{
@@ -11,43 +12,58 @@ a{
 	position: relative;
 	left: 71px;
 }
-.container h1{
+header {
 	clear:both;
 	font-style: bold;
-	font-family: 'Arial', Serif;
+	font-family: 'Arimo', Serif;
 	border-bottom-style: solid;
 	position: relative;
+	
 }
 
+header h1{
+	border-bottom-style: solid;
+}
 
+article {
+	font-family: 'Arimo', Serif;
+}
 
-.container ul,li {
-	font-family: 'Arial', Serif;
+article ul,li {
+	
 	position: relative;
 	top: 0px;
 	left: 40px;
 }
 
-#header ul,p{
-	font-style: italic;
-	font-size: 20px;
-	position: relative;
-	top: 20px;
-	left: 20px;
+article h1 {
+	font-size: 25px;
+	font-style:bold;
 }
 
-#header h1{
+header ul,p{
+	font-style: italic;
+	font-size: 30px;
+	position: relative;
+	padding: 20px 0px 20px 0px;
+	list-style: none;
+	
+}
+header h1{
 	font-size: 50px;
 }
 
 li {
     margin: 5px 10px 5px 1em;
-    word-wrap:normal;
 }
 
 ul li {
 
     background-position: 0px center; 
     padding-left: 15px;
-    margin-right: 100px;
+}
+
+.References {
+	padding-bottom:50px;
+	font-size: 25px;
 }
