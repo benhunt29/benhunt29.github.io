@@ -1,0 +1,70 @@
+
+img{
+	float:right;
+	position: relative;
+	right: 60px;
+	box-shadow: 10px 10px 5px #888888;
+	margin: 5 5 5 5;
+}
+
+a{
+	display:block;
+	position: relative;
+	left: 71px;
+}
+header {
+	clear:both;
+	font-style: bold;
+	font-family: 'Arimo', Serif;
+	border-bottom-style: solid;
+	position: relative;
+	
+}
+
+header h1{
+	border-bottom-style: solid;
+}
+
+article {
+	font-family: 'Arimo', Serif;
+}
+
+article ul,li {
+	
+	position: relative;
+	top: 0px;
+	left: 40px;
+}
+
+article h1 {
+	font-size: 25px;
+	font-style:bold;
+	border-bottom: solid 1px;
+}
+
+header ul,p{
+	font-style: italic;
+	font-size: 30px;
+	position: relative;
+	padding: 20px 0px 20px 0px;
+	list-style: none;
+	
+}
+header h1{
+	font-size: 50px;
+}
+
+li {
+    margin: 5px 10px 5px 1em;
+}
+
+ul li {
+
+    background-position: 0px center; 
+    padding-left: 15px;
+}
+
+.References {
+	padding-bottom:50px;
+	font-size: 25px;
+}
